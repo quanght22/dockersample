@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XsY98jvpbFkDW3WnFQqOln9tTK5wbd9o3L1Gwg6NuYIv+q45hHiZF+USk7AHA4YLUxeSX+kpvT40F+SaEgYxqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quang.huynhthanh\\source\\repos\\DockerSample\\DockerSample\\DockerSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quang.huynhthanh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
